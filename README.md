@@ -16,16 +16,15 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ![imAGE](2.png)
 
-
-
 ## Experiment:
 
-
+<img width="831" height="475" alt="Screenshot 2026-03-27 102303" src="https://github.com/user-attachments/assets/775534d0-eb5d-4a06-b1a8-7b860d3a01e5" />
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+<img width="823" height="391" alt="Screenshot 2026-03-27 102419" src="https://github.com/user-attachments/assets/f1015942-43ee-4b32-9cce-edd3f3a3b39a" />
 
 ## Result :
-
+output fetched succesfully
